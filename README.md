@@ -9,5 +9,5 @@ This Method averages the values, but it forms a weighted average to account for 
 
 Grayscale Image = ( (0.3 * R) + (0.59 * G) + (0.11 * B) )
 
-### Code Includes implementation of above algorithm on CPU or GPU.
+### Code Includes implementation of above algorithms for CPU or GPU.
 
