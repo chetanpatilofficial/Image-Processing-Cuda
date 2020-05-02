@@ -1,7 +1,7 @@
 # Image-Processing-Cuda
 
 
-I.	Image Blurring using Box Blur Algorithm :
+## I.	Image Blurring using Box Blur Algorithm :
 A box blur (also known as a box linear filter) is a spatial domain linear filter in which each pixel in the resulting image has a value equal to the average value of its neighboring pixels in the input image. It is a form of low-pass ("blurring") filter.
 
 II.	Convert Image to greyscale using weighted method or luminosity method:
